@@ -1,0 +1,10 @@
+D:\Documentos\Visual Studio 2013\Projects\Escuela\dll_Escuela\bin\Debug\dll_Escuela.dll
+D:\Documentos\Visual Studio 2013\Projects\Escuela\dll_Escuela\bin\Debug\dll_Escuela.pdb
+D:\Documentos\Visual Studio 2013\Projects\Escuela\dll_Escuela\obj\Debug\dll_Escuela.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2013\Projects\Escuela\dll_Escuela\obj\Debug\dll_Escuela.dll
+D:\Documentos\Visual Studio 2013\Projects\Escuela\dll_Escuela\obj\Debug\dll_Escuela.pdb
+D:\Documentos\Documentos\Moyete\Estudiando\Bases de Datos\Escuela\dll_Escuela\bin\Debug\dll_Escuela.dll
+D:\Documentos\Documentos\Moyete\Estudiando\Bases de Datos\Escuela\dll_Escuela\bin\Debug\dll_Escuela.pdb
+D:\Documentos\Documentos\Moyete\Estudiando\Bases de Datos\Escuela\dll_Escuela\obj\Debug\dll_Escuela.csprojResolveAssemblyReference.cache
+D:\Documentos\Documentos\Moyete\Estudiando\Bases de Datos\Escuela\dll_Escuela\obj\Debug\dll_Escuela.dll
+D:\Documentos\Documentos\Moyete\Estudiando\Bases de Datos\Escuela\dll_Escuela\obj\Debug\dll_Escuela.pdb

@@ -1,0 +1,16 @@
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\bin\Debug\Computacion.exe.config
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\bin\Debug\Computacion.exe
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\bin\Debug\Computacion.pdb
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\obj\Debug\Computacion.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\obj\Debug\Computacion.frmPrincipal.resources
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\obj\Debug\Computacion.Properties.Resources.resources
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\obj\Debug\Computacion.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\obj\Debug\Computacion.exe
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\obj\Debug\Computacion.pdb
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\obj\Debug\Computacion.Formularios.frmComputadoras.resources
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\obj\Debug\Computacion.Formularios.frmDiscosDuros.resources
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\obj\Debug\Computacion.Formularios.frmProcesadores.resources
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\obj\Debug\Computacion.Formularios.frmTarjetasVideo.resources
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\obj\Debug\Computacion.Formularios.frmMemorias.resources
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\bin\Debug\dll_Computacion.dll
+D:\Documentos\Visual Studio 2013\Projects\Computacion\Computacion\bin\Debug\dll_Computacion.pdb

@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2013\Projects\Computacion\dll_Computacion\bin\Debug\dll_Computacion.dll
+D:\Documentos\Visual Studio 2013\Projects\Computacion\dll_Computacion\bin\Debug\dll_Computacion.pdb
+D:\Documentos\Visual Studio 2013\Projects\Computacion\dll_Computacion\obj\Debug\dll_Computacion.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2013\Projects\Computacion\dll_Computacion\obj\Debug\dll_Computacion.dll
+D:\Documentos\Visual Studio 2013\Projects\Computacion\dll_Computacion\obj\Debug\dll_Computacion.pdb
